@@ -44,14 +44,13 @@ li {
     color: #0D47A1; 
     font-weight: 500; 
 } 
-/* Box */
 div {
-    background-color: #FFFFFF; 
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid blue;
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
-    max-width: 800px;
-    margin: 20px auto;
+    margin: 30px;
 }
 
 /* GitHub Link */ 
