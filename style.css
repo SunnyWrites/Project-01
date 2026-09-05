@@ -44,6 +44,16 @@ li {
     color: #0D47A1; 
     font-weight: 500; 
 } 
+/* Box */
+div {
+    background-color: #FFFFFF; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    max-width: 800px;
+    margin: 20px auto;
+}
+
 /* GitHub Link */ 
 a { 
     color: #0B63CE; 
